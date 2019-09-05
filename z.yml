@@ -1,0 +1,13 @@
+---
+description: Driver for Sony CXD5602 GNSS
+fullname: lib.sony.cxd5602gnss
+info:
+    chip_manufacturer: Sony
+    chip_name: CXD5602GNSS
+    name: GNSS Driver
+    type: Connectivity
+keywords:
+- gnss
+- sony
+title: Sony CXD5602 GNSS module
+...

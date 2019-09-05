@@ -1,1 +1,0 @@
-# lib-sony-cxd5602gnss
